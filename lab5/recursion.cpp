@@ -1,6 +1,6 @@
 #include "recursion.hpp"
 
-// returns int representing triangular nubmer of triangle with n rows
+// returns int representing triangular number of triangle with n rows
 int triangularNumber(int n) {
     
     if (n == 0) {
